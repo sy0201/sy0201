@@ -29,20 +29,17 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-   
-<img src="https://img.shields.io/badge/iOS(UIKit)-181717?style=flat-square&logo=Apple&logoColor=Black"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+<img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white" /><img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" /><img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0185FF?style=flat-square&logo=swift&logoColor=white" /><img alt="ReactiveX" src="https://img.shields.io/badge/-RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white" /><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /><img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 </div>
 
 
-## Professional Experiences
-### iOS developer ('22.07 - )
-> [Dr.math](https://apps.apple.com/th/app/%EB%8B%A5%ED%84%B0%EB%A7%A4%EC%93%B0-2-0/id6450350070) 신규 개발 ('23.07 TestFlight 배포) 
+## 🍏 iOS Projects
+### 주식회사 호호호 (2022.07 ~)
+> [Dr.math](https://apps.apple.com/th/app/%EB%8B%A5%ED%84%B0%EB%A7%A4%EC%93%B0-2-0/id6450350070) 신규 개발 ('2023.07 TestFlight 배포) 
 
 
-## Education
-### 🍎 Swift 부트캠프 / 앨런 Swift문법 마스터 스쿨 
-* '22.02 - '22.04 (3개월)
-* Swift 문법을 제대로 이해하고 활용할 수 있도록 학습
+### 📚 Education
+- **Swift 부트캠프 / 앨런 Swift문법 마스터 스쿨** (2022.02 ~ 2022.04)<br/>
 
 ## Where to find me
 * ✉️ Email : noey0201@gmail.com
