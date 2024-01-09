@@ -23,6 +23,11 @@ Here are some ideas to get you started:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sy0201&show_icons=true&theme=blueberry)
  
  <img src="https://img.shields.io/badge/RxSwift-b7178c?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0185FF?style=flat-square&logo=swift&logoColor=white" />
+ <img alt="ReactiveX" src="https://img.shields.io/badge/-RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+ <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:b721ff,100:21d4fd&text=SIA&animation=fadeIn&fontSize=40&fontColor=FFFFFF&fontAlignY=30&desc=iOS%20Developer)
@@ -31,11 +36,6 @@ Here are some ideas to get you started:
 <div align=center>
 <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=iOS&logoColor=white" />
  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
- <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-0185FF?style=flat-square&logo=swift&logoColor=white" />
- <img alt="ReactiveX" src="https://img.shields.io/badge/-RxSwift-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
- <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
- 
 </div>
 
 
