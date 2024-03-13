@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 ## 🍏 iOS Projects
 ### 주식회사 호호호 (2022.07 ~ 2024.01)
-> [Dr.math](https://apps.apple.com/th/app/%EB%8B%A5%ED%84%B0%EB%A7%A4%EC%93%B0-2-0/id6450350070) 하이브리드 앱개발 ('2023.07 TestFlight 배포) 
 
 
 ### 📚 Education
