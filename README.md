@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 -->
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:b721ff,100:21d4fd&text=SIA&animation=fadeIn&fontSize=40&fontColor=FFFFFF&fontAlignY=30&desc=iOS%20Developer)
 
 
@@ -50,5 +50,20 @@ Here are some ideas to get you started:
 * ✉️ Email : noey0201@gmail.com
 
 <br>
+-->
 
+_**Contact.**_<br>
+ 
+ <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sy0201/posts)](https://velog.io/@sy0201/posts)-->
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siyeon-park-bab190237/)](https://www.linkedin.com/in/siyeon-park-bab190237/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noey0201@gmail.com)](mailto:noey0201@gmail.com)
+  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://silk-puffin-258.notion.site/iOS-337e5aabbade40fdb93d45ddea08820b?pvs=4)](https://silk-puffin-258.notion.site/iOS-337e5aabbade40fdb93d45ddea08820b?pvs=4)
 
+_**Skills.**_<br>
+ 
+ <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/Xcode-1E1E1E?style=for-the-badge&logo=xcode&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Slack-ff4141?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/postman-f46b36?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=yellow">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://hits.seeyoufarm.com)
