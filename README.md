@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 _**Contact.**_<br>
  
- <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sy0201/posts)](https://velog.io/@sy0201/posts)-->
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sy0201)](https://velog.io/@sy0201/posts)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siyeon-park-bab190237/)](https://www.linkedin.com/in/siyeon-park-bab190237/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:noey0201@gmail.com)](mailto:noey0201@gmail.com)
   [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://silk-puffin-258.notion.site/iOS-337e5aabbade40fdb93d45ddea08820b?pvs=4)](https://silk-puffin-258.notion.site/iOS-337e5aabbade40fdb93d45ddea08820b?pvs=4)
