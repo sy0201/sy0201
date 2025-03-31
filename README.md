@@ -66,4 +66,4 @@ _**Skills.**_<br>
  
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Slack-ff4141?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/postman-f46b36?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=yellow">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev)](https://hits.seeyoufarm.com) -->
